@@ -18,7 +18,27 @@
 <b>IRB 1200 5kg/0.9m Robot</b>
 
 <b>SolidWorks</b> (for CAD components)
-<h2>Program walk-through:</h2><p align="center"> Robot Station Setup: <br/> <img src="media/image16.png" height="80%" width="80%" alt="Robot Station Setup"/> <br /> <br /> Program Structure on FlexPendant: <br/> <img src="media/image18.png" height="80%" width="80%" alt="Program Routines"/> <br /> <br /> Motion Types Implementation: <br/> - <b>Move J</b>: Joint movement for positioning between points<br/> - <b>Move L</b>: Linear movement for straight-line drawing<br/> - <b>Move C</b>: Circular movement for curved paths<br/> <br /> Coordinate Systems Configuration: <br/> <img src="media/image5.png" height="80%" width="80%" alt="Coordinate Systems"/> <br /> <br /> Zone Data Settings for Path Precision: <br/> <img src="media/image4.png" height="80%" width="80%" alt="Zone Data Configuration"/> <br /> <br /> FlexPendant Controls: <br/> <img src="media/image25.png" height="80%" width="80%" alt="FlexPendant Interface"/> <br /> <br /> Final Output - Drawn Shapes and Text: <br/> <img src="media/image26.emf" height="80%" width="80%" alt="Robot Drawing Results"/> </p><h2>Key Features</h2>
+
+<h2>Project Setup and Results</h2>
+
+<p align="center">
+ 
+Program Guide:  <br/>
+![Program Routines](1.png) 
+<br />
+<br />
+
+Program Setup:  <br/>
+![Program Routines](2.png)
+<br />
+<br />
+
+Program Sample:  <br/>
+![Drawing Results](3.png)
+</p>
+
+
+<h2>Key Features</h2>
 <b>Modular Programming</b>: Separate routines for shapes, text, and names
 
 <b>Precision Control</b>: Implemented zone data (Fine, Z0, Z1) for accurate path following
