@@ -13,6 +13,7 @@
 <b>FlexPendant Interface</b>
 
 <h2>Environments Used </h2>
+
 <b>ABB RobotStudio 6.04.00.01</b>
 
 <b>IRB 1200 5kg/0.9m Robot</b>
